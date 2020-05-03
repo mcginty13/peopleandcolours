@@ -1,0 +1,26 @@
+body{
+    font-family: 'Calibri', sans-serif;
+}
+img {
+    max-width: 100%;
+}
+.site-container{
+    min-height: 100vh;
+}
+header .logo img{
+    width: 100%;
+}
+.page-content{
+    flex-grow: 1;
+}
+.product a{
+    color: black;
+    display: block;
+}
+.product .title{
+    font-size: 1.4em;
+    font-weight: 300;
+}
+footer a{
+    color: black;
+}
